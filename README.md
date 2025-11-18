@@ -112,3 +112,6 @@ The dashboard will open in your browser at `http://localhost:8501`
 2. Stop the producer: Press `Ctrl+C` in the producer terminal
 3. Stop the consumer: Press `Ctrl+C` in the consumer terminal
 4. Stop Docker services: `docker-compose down`
+
+## Screenshot of the dashboard
+![Dashborad Results](dashboard_screenshot.png)
